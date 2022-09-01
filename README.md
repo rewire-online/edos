@@ -12,6 +12,6 @@ The task contains three hierarchical subtasks:
 * TASK B - Category of Sexism: for posts which are sexist, a four-class classification where systems have to predict one of four categories: (1) threats, (2)  derogation, (3) animosity, (4) prejudiced discussion. 
 * TASK C - Fine-grained Vector of Sexism: for posts which are sexist, an 11-class classification where systems have to predict one of 11 fine-grained vectors.
 
-To sign-up to our shared task and access the data, check out our CodaLab page [here](https://codalab.lisn.upsaclay.fr/competitions/7124).
+To sign-up to our shared task and access the data, check out our [CodaLab page](https://codalab.lisn.upsaclay.fr/competitions/7124)!
 
 ![Our Taxonomy](https://github.com/rewire-online/edos/blob/main/edos_vectors.png?raw=true)
