@@ -38,22 +38,26 @@ sys.stdout.write("Loaded submission. \n")
 gold_df = pd.read_csv(os.path.join(gold_dir, os.listdir(gold_dir)[0])) # the first file in the gold standard zip is expected to be the gold standard csv
 sys.stdout.write("Loaded gold standard data. \n\n")
 
-# validate submission: correct columns exist and length matches gold standard data
+# validate submission:
+# correct columns exist
 if "rewire_id" not in submission_df.columns:
     sys.exit('ERROR: Submission is missing Rewire ID column.')
 if "label_pred" not in submission_df.columns:
     sys.exit('ERROR: Submission is missing label_pred column.')
+# length matches gold standard data
 if (len(submission_df) != len(gold_df)):
     sys.exit('ERROR: Number of entries in submission does not match number of entries in gold standard data. Are you submitting to the right task?')
+# valid labels
 unique_submission_labels = submission_df['label_pred'].unique()
 unique_gold_labels = gold_df['label'].unique()
-# check submission labels are valid
 for i in unique_submission_labels:
     if i not in unique_gold_labels:
-        sys.exit('ERROR: Predicted labels in submission do not match correct strings in gold standard data.')
+        sys.exit('ERROR: The column label_pred contains invalid label strings. Please see the Submission page for more information.')
+
 
 sys.stdout.write("Submission contains correct column names (rewire_id and label_pred). \n")
-sys.stdout.write("Number of entries in submission matches number of entries in gold standard data. \n\n")
+sys.stdout.write("Number of entries in submission matches number of entries in gold standard data. \n")
+sys.stdout.write("Predicted labels are all valid strings. \n\n")
 
 # sort submission and gold standard data by Rewire ID, so that labels match predictions
 submission_df = submission_df.sort_values("rewire_id")
