@@ -1,7 +1,7 @@
 Final Ranking,Team Name,Macro F1,Codalab Ranking
 1,PingAnLifeInsurance,0.8746,1
 2,stce,0.874,2
-3,FiRC-NLP,0.874,3
+2,FiRC-NLP,0.874,3
 4,PALI,0.8717,4
 5,GZHU / UCAS-IIE,0.8692,8
 6,Zhegu,0.8674,9
@@ -18,8 +18,8 @@ Final Ranking,Team Name,Macro F1,Codalab Ranking
 17,Chride,0.8548,38
 18,SUTNLP,0.8545,40
 19,JUST_ONE,0.8538,41
-20,UIRISC,0.8538,42
-21,Just_Dream,0.8538,43
+19,UIRISC,0.8538,42
+20,Just_Dream,0.8538,43
 22,ABC,0.8537,44
 23,MarSan,0.8518,46
 24,UMUTeam,0.8495,47
