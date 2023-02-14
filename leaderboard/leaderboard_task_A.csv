@@ -1,11 +1,11 @@
 Final Ranking,Team Name,Macro F1,Codalab Ranking
 1,PingAnLifeInsurance,0.8746,1
-2,stce,0.874,2
-2,FiRC-NLP,0.874,3
+2,stce,0.8740,2
+2,FiRC-NLP,0.8740,3
 4,PALI,0.8717,4
 5,GZHU / UCAS-IIE,0.8692,8
 6,Zhegu,0.8674,9
-7,ITNLP2023,0.863,13
+7,ITNLP2023,0.8630,13
 8,YD,0.8629,14
 9,MilaNLP,0.8616,17
 10,"Sana Sabah Al-azzawi, Filip Nilsson ,Oluwatosin  Adewumi, György Kovács",0.8613,19
@@ -33,9 +33,9 @@ Final Ranking,Team Name,Macro F1,Codalab Ranking
 32,DH-FBK,0.8402,61
 33,I2C-HUELVA_G2,0.8396,62
 34,SSS,0.8392,63
-35,Attention,0.839,64
+35,Attention,0.8390,64
 36,AdamR,0.8383,65
-37,Team Daunting,0.838,66
+37,Team Daunting,0.8380,66
 38,DAY,0.8373,67
 39,KingsmanTrio,0.8366,71
 40,Efrat Luzzon,0.8362,72
@@ -43,10 +43,10 @@ Final Ranking,Team Name,Macro F1,Codalab Ranking
 42,UniBoe's,0.8346,74
 43,HULAT,0.8298,75
 44,Group2-RUG,0.8295,76
-45,SKAM,0.825,77
+45,SKAM,0.8250,77
 46,SINAI,0.8245,79
 47,HHS,0.8239,80
-48,msharma95,0.823,81
+48,msharma95,0.8230,81
 49,HausaNLP,0.8228,82
 50,UL & UM6P,0.8225,84
 51,CSECU-DSG,0.8218,85
@@ -55,7 +55,7 @@ Final Ranking,Team Name,Macro F1,Codalab Ranking
 54,RRGI,0.8186,89
 55,hhuEDOS,0.8185,90
 56,shefnlp,0.8181,91
-57,tsingriver,0.818,93
+57,tsingriver,0.8180,93
 58,JUAGE,0.8166,94
 59,Lexicools,0.8124,96
 60,PA666,0.8119,97
@@ -69,13 +69,13 @@ Final Ranking,Team Name,Macro F1,Codalab Ranking
 68,PadmaDS,0.7826,109
 69,iREL,0.7815,110
 70,shm2023,0.7758,111
-71,IUST_NLP,0.775,112
+71,IUST_NLP,0.7750,112
 72,INFOTEC,0.7584,115
 73,PanwarJayant,0.7583,116
 74,LT3,0.7542,117
-75,USMBA_NLP,0.754,118
+75,USMBA_NLP,0.7540,118
 76,CNLP-NITS,0.7478,119
-77,YPMS,0.735,120
+77,YPMS,0.7350,120
 78,we_have_no_idea,0.7304,121
 79,danch22,0.7184,122
 80,NLP-CogSci,0.6325,127

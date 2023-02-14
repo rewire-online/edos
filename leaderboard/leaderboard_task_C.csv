@@ -7,7 +7,7 @@ Final Ranking,Team Name,Macro F1,Codalab Ranking
 6,SUTNLP,0.5252,8
 7,JUAGE,0.5221,9
 8,GZHU / UCAS-IIE,0.5218,10
-9,UL & UM6P,0.498,13
+9,UL & UM6P,0.4980,13
 10,YD,0.4957,14
 11,DH-FBK,0.4935,15
 12,MarSan,0.4822,18
@@ -30,8 +30,8 @@ Final Ranking,Team Name,Macro F1,Codalab Ranking
 29,SINAI,0.4376,40
 30,SSS,0.4319,41
 31,ABC,0.4271,42
-32,IUST_NLP,0.423,43
-33,A2Z,0.408,45
+32,IUST_NLP,0.4230,43
+33,A2Z,0.4080,45
 34,ACSMKRHR,0.4067,46
 35,RRGI,0.3879,47
 36,HITSZ-Q,0.3847,49
@@ -46,8 +46,8 @@ Final Ranking,Team Name,Macro F1,Codalab Ranking
 45,TEDOS,0.3341,60
 46,LT3,0.3215,61
 47,INFOTEC,0.3155,62
-48,UniBoe's,0.315,63
-49,AU_NLP,0.299,64
+48,UniBoe's,0.3150,63
+49,AU_NLP,0.2990,64
 50,"Sana Sabah Al-azzawi, Filip Nilsson ,Oluwatosin  Adewumi, György Kovács",0.2898,65
 51,PadmaDS,0.2866,66
 52,Lexicools,0.2731,67
