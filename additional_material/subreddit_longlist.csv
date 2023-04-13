@@ -1,0 +1,82 @@
+Subreddit,Subreddit category,count_comments,count_submissions,count_subscribers,Shortlist
+1ncels,IC,Data not available,1,Data not collected,FALSE
+inselselfies,IC,Data not available,Data not available,Data not collected,FALSE
+Malecels,IC,Data not available,104,Data not collected,FALSE
+TheBlackPill,IC,Data not available,Data not available,Data not collected,FALSE
+ThePinkPill,IC,Data not available,1,Data not collected,FALSE
+ThePurplePill,TRP (incl. MRA),Data not available,1,Data not collected,FALSE
+KotakuInAction,TRP (incl. MRA),"6,390,767","140,098","129,482",TRUE
+PurplePillDebate,TRP (incl. MRA),"5,567,118","47,160","88,836",TRUE
+MGTOW,MGTOW,"5,195,710","263,212","146,230",TRUE
+MensRights,TRP (incl. MRA),"4,884,582","222,670","318,370",TRUE
+TheRedPill,TRP (incl. MRA),"2,702,401","85,848","292,649",TRUE
+Braincels,IC,"2,639,653","132,406","41,109",TRUE
+askTRP,TRP (incl. MRA),"2,254,256","168,821","83,397",TRUE
+IncelTears,IC,"2,181,606","58,708","347,724",TRUE
+ForeverAlone,IC*,"2,093,658","142,455","166,275",FALSE
+seduction,PUA,"2,015,036","188,883","669,201",TRUE
+PussyPassDenied,TRP (incl. MRA),"1,558,438","22,826","591,887",TRUE
+IncelsWithoutHate,IC,"1,348,622","71,409","32,862",TRUE
+Incels,IC,"925,314","48,210",Data not available,TRUE
+TheBluePill,TRP (incl. MRA),"809,313","26,674","93,907",TRUE
+HAPAS,IC,"521,182","42,014","25,988",TRUE
+FeMRADebates,TRP (incl. MRA),"516,198","11,911","6,701",TRUE
+RedPillWomen,TRP (incl. MRA),"363,087","16,043","56,431",TRUE
+MGTOW2,MGTOW,"316,648","16,025","43,277",TRUE
+shortcels,IC,"309,585","22,696","12,362",TRUE
+askseddit,PUA,"309,160","43,356","28,462",TRUE
+ForeverAloneDating,IC*,"276,286","181,232","188,905",FALSE
+marriedredpill,TRP (incl. MRA),"231,625","6,989","42,132",TRUE
+Trufemcels,IC,"225,067","16,282","27,162",TRUE
+PussyPass,TRP (incl. MRA),"154,602","12,071","83,935",TRUE
+PinkPillFeminism,IC,"130,226","7,983","18,404",TRUE
+incelselfies,IC,"101,864","5,554","11,533",TRUE
+exredpill,TRP (incl. MRA),"99,047","4,730","14,740",FALSE
+askanincel,IC,"95,300","2,903","5,646",FALSE
+IncelsInAction,IC,"81,172","4,731","41,048",FALSE
+Egalitarianism,TRP (incl. MRA),"59,388","4,190","10,619",FALSE
+RedPillWives,TRP (incl. MRA),"41,179","2,922","9,780",FALSE
+failed_normies,IC,"34,154","2,376","4,683",FALSE
+Intactivists,TRP (incl. MRA),"32,541","5,376","6,503",FALSE
+BlackPillScience,IC,"18,769","1,274","16,168",FALSE
+masculism,TRP (incl. MRA),"16,376","1,561","7,084",FALSE
+ForeverUnwanted,IC*,"16,172","2,028","2,957",FALSE
+pickup,PUA,"15,291","4,728","12,890",FALSE
+fPUA,PUA,"8,818",865,Data not collected,FALSE
+MensRightsMeta,TRP (incl. MRA),"7,860",534,Data not collected,FALSE
+MensRants,TRP (incl. MRA),"7,378","1,579",Data not collected,FALSE
+Incel,IC,"7,123",513,Data not collected,FALSE
+becomeaman,TRP (incl. MRA),"6,583","2,004",Data not collected,FALSE
+theredpillright,TRP (incl. MRA),"6,381",472,Data not collected,FALSE
+SupportCel,IC,"5,510",272,Data not collected,FALSE
+LadyMRAs,TRP (incl. MRA),"4,929",520,Data not collected,FALSE
+MaleForeverAlone,IC,"4,688",606,Data not collected,FALSE
+gymcels,IC,"3,876",600,Data not collected,FALSE
+Truecels,IC,"3,819",364,Data not collected,FALSE
+IncelDense,IC,"1,970",204,Data not collected,FALSE
+Foreveraloneteens,IC*,"1,738",289,Data not collected,FALSE
+rsd,PUA,"1,728","2,775",Data not collected,FALSE
+TRPOffTopic,TRP (incl. MRA),"1,571",550,Data not collected,FALSE
+thankTRP,TRP (incl. MRA),"1,468",486,Data not collected,FALSE
+RedPillParenting,TRP (incl. MRA),"1,116",157,Data not collected,FALSE
+altTRP,TRP (incl. MRA),"1,029",194,Data not collected,FALSE
+PhilosophyOfRape,TRP (incl. MRA),948,Data not available,Data not collected,FALSE
+pua,PUA,816,545,Data not collected,FALSE
+MRActivism,TRP (incl. MRA),571,695,Data not collected,FALSE
+Gold_Digger,MGTOW,479,264,Data not collected,FALSE
+MgtowMusic,MGTOW,447,865,Data not collected,FALSE
+Truefemcels,IC,423,25,Data not collected,FALSE
+melanincels,IC,421,96,Data not collected,FALSE
+MensRightsLaw,TRP (incl. MRA),346,164,Data not collected,FALSE
+MensRightsLinks,TRP (incl. MRA),297,496,Data not collected,FALSE
+MgtowBooks,MGTOW,245,200,Data not collected,FALSE
+GEOTRP,TRP (incl. MRA),214,124,Data not collected,FALSE
+IncelsPurgatory,IC,171,16,Data not collected,FALSE
+MRRef,TRP (incl. MRA),159,284,Data not collected,FALSE
+gaycel,IC,77,10,Data not collected,FALSE
+NOMAAM,TRP (incl. MRA),52,314,Data not collected,FALSE
+ForeverAloneLondon,IC*,39,7,Data not collected,FALSE
+LonelyNonViolentMen,IC,36,8,Data not collected,FALSE
+DogpillScience,IC,19,9,Data not collected,FALSE
+puascience,PUA,16,73,Data not collected,FALSE
+IncelBrotherhood,IC,2,1,Data not collected,FALSE
